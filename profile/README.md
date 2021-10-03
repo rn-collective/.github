@@ -8,10 +8,10 @@
 - <b>VK: https://vk.com/club169420266</b> <br>
 
 ### :popcorn: Projects
-- [Agency](https://github.com/renewed-networks/sbox-agency)
+- <b>[Agency](https://github.com/renewed-networks/sbox-agency)</b>
   - An analogue of the Deception gamemode created for Garry's Mod (s&box)
-- [Renewed Engine](https://github.com/renewed-networks/RenewedEngine)
+- <b>[Renewed Engine](https://github.com/renewed-networks/RenewedEngine)</b>
   - Framework built with inspiration from Half-Life 2 Beta (s&box)
 
 ### :eyeglasses: Appendix
-If you would like to be involved in project development, please contact [lead developer](https://steamcommunity.com/id/bilwin/)
+<b>If you would like to be involved in project development, please contact [lead developer](https://steamcommunity.com/id/bilwin/)</b>

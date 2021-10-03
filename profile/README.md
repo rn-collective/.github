@@ -14,4 +14,4 @@
   - Framework built with inspiration from Half-Life 2 Beta (s&box)
 
 ### :eyeglasses: Appendix
-<b>If you would like to be involved in project development, please contact [lead developer](https://steamcommunity.com/id/bilwin/)</b>
+<b>If you would like to be involved in project development, please contact [our lead developer](https://steamcommunity.com/id/bilwin/)</b>

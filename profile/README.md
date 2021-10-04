@@ -2,7 +2,7 @@
 
 ### :mailbox: Our links
 - <b>Discord: https://discord.gg/8zXbcQx</b> <br>
-- <b>E-Mail: bilwin@renewed.network</b> <br>
+- <b>E-Mail: rnetwork.github@renewed.network</b> <br>
 - <b>Steam: https://steamcommunity.com/groups/renewed_networks</b> <br>
 - <b>YouTube: https://www.youtube.com/channel/UCfTGiEu2wfXTPpEoChq2fgg</b> <br>
 - <b>VK: https://vk.com/club169420266</b> <br>

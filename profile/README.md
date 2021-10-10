@@ -12,6 +12,8 @@
   - An analogue of the Deception gamemode created for Garry's Mod (s&box)
 - <b>[Renewed Engine](https://github.com/renewed-networks/RenewedEngine)</b>
   - Framework built with inspiration from Half-Life 2 Beta (s&box)
+- <b>Prospekt</b>
+  - An analogue of the Breach gamemode, but it's Half-Life 2 themed (Gmod)
 
 ### :eyeglasses: Appendix
 <b>If you would like to be involved in project development, please contact [our lead developer](https://steamcommunity.com/id/bilwin/)</b>

@@ -1,7 +1,7 @@
 <h1 align="center"> Добро пожаловать на нашу страницу! :wave:</h1>
 
 ### :mailbox: Ссылки
-- <b>Discord: https://discord.gg/8zXbcQx</b> <br>
+- <b>Discord: https://discord.gg/4MBuAKJGYR</b> <br>
 - <b>E-Mail: rnetwork.github@renewed.network</b> <br>
 - <b>Steam: https://steamcommunity.com/groups/renewed_networks</b> <br>
 - <b>YouTube: https://www.youtube.com/channel/UCfTGiEu2wfXTPpEoChq2fgg</b> <br>

@@ -1,4 +1,4 @@
-<h1 align="center"> Добро пожаловать на нашу страницу! :wave:</h1>
+![](https://i.imgur.com/65IlJTm.png)
 
 ### :mailbox: Ссылки
 - <b>Discord: https://discord.gg/4MBuAKJGYR</b> <br>

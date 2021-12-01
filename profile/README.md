@@ -36,6 +36,8 @@
 - <b>FoKa</b> (http://steamcommunity.com/profiles/76561198843557555)
 - <b>Swanchick</b> (http://steamcommunity.com/profiles/76561198032071176)
 - <b>lakatarrr</b> (http://steamcommunity.com/profiles/76561198860822909)
+- <b>Davey</b> (http://steamcommunity.com/profiles/76561198343835495)
+- <b>Deflated</b> (http://steamcommunity.com/profiles/76561198077046155)
 
 ### :eyeglasses: Постскриптум
 <b>Если вы хотите принять участие в разработке проектов, напишите [ведущему разработчику](https://steamcommunity.com/id/bilwin/)</b>

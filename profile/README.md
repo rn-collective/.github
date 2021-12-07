@@ -1,11 +1,11 @@
 ![](https://i.imgur.com/65IlJTm.png)
 
 ### :mailbox: Ссылки
-- <b>Discord: https://discord.gg/4MBuAKJGYR</b> <br>
-- <b>E-Mail: rnetwork.github@renewed.network</b> <br>
-- <b>Steam: https://steamcommunity.com/groups/renewed_networks</b> <br>
-- <b>YouTube: https://www.youtube.com/channel/UCfTGiEu2wfXTPpEoChq2fgg</b> <br>
-- <b>VK: https://vk.com/club169420266</b> <br>
+- <b>[Discord](https://discord.gg/4MBuAKJGYR)</b> <br>
+- <b>[E-Mail](mailto:rnetwork.github@renewed.network)</b> <br>
+- <b>[Steam](https://steamcommunity.com/groups/renewed_networks)</b> <br>
+- <b>[YouTube](https://www.youtube.com/channel/UCfTGiEu2wfXTPpEoChq2fgg)</b> <br>
+- <b>[VK](https://vk.com/club169420266)</b> <br>
 
 ### 📚 Проекты
 - <b>rnlib</b>
@@ -30,14 +30,14 @@
   - Режим, аналогичный игровому режиму Deception в GMod, однако, разрабатываемый в s&box
 
 ### 🔆 Участники команды
-- <b>Bilwin</b> (http://steamcommunity.com/profiles/76561198799754743)
-- <b>gmFlan</b> (http://steamcommunity.com/profiles/76561199112440086)
-- <b>heut</b> (http://steamcommunity.com/profiles/76561198414640282)
-- <b>FoKa</b> (http://steamcommunity.com/profiles/76561198843557555)
-- <b>Swanchick</b> (http://steamcommunity.com/profiles/76561198032071176)
-- <b>lakatarrr</b> (http://steamcommunity.com/profiles/76561198860822909)
-- <b>Davey</b> (http://steamcommunity.com/profiles/76561198343835495)
-- <b>Deflated</b> (http://steamcommunity.com/profiles/76561198077046155)
+- <b>[Bilwin](http://steamcommunity.com/profiles/76561198799754743)</b>
+- <b>[gmFlan](http://steamcommunity.com/profiles/76561199112440086)</b> 
+- <b>[heut](http://steamcommunity.com/profiles/76561198414640282)</b>
+- <b>[FoKa](http://steamcommunity.com/profiles/76561198843557555)</b>
+- <b>[Swanchick](http://steamcommunity.com/profiles/76561198032071176)</b>
+- <b>[lakatarrr](http://steamcommunity.com/profiles/76561198860822909)</b>
+- <b>[Davey](http://steamcommunity.com/profiles/76561198343835495)</b>
+- <b>[Deflated](http://steamcommunity.com/profiles/76561198077046155)</b>
 
 ### :eyeglasses: Постскриптум
 <b>Если вы хотите принять участие в разработке проектов, напишите [ведущему разработчику](https://steamcommunity.com/id/bilwin/)</b>

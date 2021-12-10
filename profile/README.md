@@ -31,7 +31,7 @@
 
 ### 🔆 Участники команды
 - <b>[Bilwin](http://steamcommunity.com/profiles/76561198799754743)</b>
-- <b>[gmFlan](http://steamcommunity.com/profiles/76561199112440086)</b> 
+- <b>[gmFlan](http://steamcommunity.com/profiles/76561198019947959)</b> 
 - <b>[heut](http://steamcommunity.com/profiles/76561198414640282)</b>
 - <b>[FoKa](http://steamcommunity.com/profiles/76561198843557555)</b>
 - <b>[Swanchick](http://steamcommunity.com/profiles/76561198032071176)</b>

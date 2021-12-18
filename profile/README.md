@@ -14,6 +14,8 @@
   - Один из официальных проектов, нацеленный на создание совокупности/кластера игровых режимов, соединенных в игровой сервер на платформе Garry's Mod
 - <b>NetOS</b>
   - Discord бот для серверов Renewed Networks, написанный на Python/JS
+- <b>gmStranded</b>
+  - Модифицированный режим Garry's Mod Stranded
 - <b>SCP: Snow Seazon (Breach)</b>
   - Собственно-разработанный командой игровой режим Breach, базирующийся на PVP игре во вселенной SCP. Специально разработан для проекта SCP: Snow Seazon
 - <b>SCP: Blitz (s&box edition)</b>

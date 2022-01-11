@@ -1,13 +1,12 @@
-![](https://i.imgur.com/65IlJTm.png)
+![Renewed Networks](https://i.imgur.com/65IlJTm.png)
+[![](https://img.shields.io/badge/Renewed%20Networks-0077ff?style=for-the-badge&logo=readthedocs&logoColor=white)](https://renewed.network)
+[![](https://img.shields.io/badge/vkontakte-0077ff?style=for-the-badge&logo=vk)](https://vk.com/club169420266)
+[![](https://img.shields.io/badge/GitHub-171a21?style=for-the-badge&logo=github)](https://github.com/renewed-networks)
+[![](https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam)](https://steamcommunity.com/groups/renewed_networks)
+[![](https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4MBuAKJGYR)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfTGiEu2wfXTPpEoChq2fgg)
 
-### :mailbox: Ссылки
-- <b>[Discord](https://discord.gg/4MBuAKJGYR)</b> <br>
-- <b>[E-Mail](mailto:rnetwork.github@renewed.network)</b> <br>
-- <b>[Steam](https://steamcommunity.com/groups/renewed_networks)</b> <br>
-- <b>[YouTube](https://www.youtube.com/channel/UCfTGiEu2wfXTPpEoChq2fgg)</b> <br>
-- <b>[VK](https://vk.com/club169420266)</b> <br>
-
-### 📚 Проекты
+## 📚 Проекты
 - <b>rnlib</b>
   - Широкая библиотека утилит и имеющий базовый набор модулей, базирующихся на утилитах rnlib, такие как memreader, http, xcrypto, ggram и i18n
 - <b>Renewed Games</b>
@@ -31,7 +30,7 @@
 - <b>Agency</b>
   - Режим, аналогичный игровому режиму Deception в GMod, однако, разрабатываемый в s&box
 
-### 🔆 Участники команды
+## 🔆 Участники команды
 - <b>[Bilwin](http://steamcommunity.com/profiles/76561198799754743)</b>
 - <b>[gmFlan](http://steamcommunity.com/profiles/76561198019947959)</b> 
 - <b>[heut](http://steamcommunity.com/profiles/76561198414640282)</b>
@@ -41,5 +40,5 @@
 - <b>[Davey](http://steamcommunity.com/profiles/76561198343835495)</b>
 - <b>[Deflated](http://steamcommunity.com/profiles/76561198077046155)</b>
 
-### :eyeglasses: Постскриптум
+## :eyeglasses: Постскриптум
 <b>Если вы хотите принять участие в разработке проектов, напишите [ведущему разработчику](https://steamcommunity.com/id/bilwin/)</b>

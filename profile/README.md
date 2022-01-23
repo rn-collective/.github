@@ -15,8 +15,6 @@
   - Discord бот для серверов Renewed Networks, написанный на Python/JS
 - ### <b>gmStranded</b>
   - Модифицированный режим Garry's Mod Stranded
-- ### <b>SCP: Snow Seazon (Breach)</b>
-  - Собственно-разработанный командой игровой режим Breach, базирующийся на PVP игре во вселенной SCP. Специально разработан для проекта SCP: Snow Seazon
 - ### <b>SCP: Blitz (s&box edition)</b>
   - Breach, разрабатываемый на платформе s&box
 - ### <b>SCP: Blitz (SE)</b>
@@ -36,7 +34,6 @@
 - <b>[heut](http://steamcommunity.com/profiles/76561198414640282)</b>
 - <b>[FoKa](http://steamcommunity.com/profiles/76561198843557555)</b>
 - <b>[Swanchick](http://steamcommunity.com/profiles/76561198032071176)</b>
-- <b>[lakatarrr](http://steamcommunity.com/profiles/76561198860822909)</b>
 - <b>[Davey](http://steamcommunity.com/profiles/76561198343835495)</b>
 - <b>[Deflated](http://steamcommunity.com/profiles/76561198077046155)</b>
 

@@ -34,7 +34,6 @@
 - <b>[heut](http://steamcommunity.com/profiles/76561198414640282)</b>
 - <b>[FoKa](http://steamcommunity.com/profiles/76561198843557555)</b>
 - <b>[Swanchick](http://steamcommunity.com/profiles/76561198032071176)</b>
-- <b>[Davey](http://steamcommunity.com/profiles/76561198343835495)</b>
 - <b>[Deflated](http://steamcommunity.com/profiles/76561198077046155)</b>
 
 ## :eyeglasses: Постскриптум

@@ -1,4 +1,4 @@
-![Renewed Networks](https://i.imgur.com/aL1BjOi.png)
+![Renewed Networks](https://i.imgur.com/SVmO0bk.png)
 <p align="center">
 <a href="https://github.com/renewed-networks"><img align="center" src="https://img.shields.io/badge/GitHub-171a21?style=for-the-badge&logo=github"/></a>
 <a href="https://steamcommunity.com/groups/renewed_networks"><img align="center" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam"/></a>

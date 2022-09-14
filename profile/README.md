@@ -1,4 +1,4 @@
-![Renewed Networks](https://i.imgur.com/wv5LctX.png)
+![rndevs.online](https://i.imgur.com/EzCALxr.png)
 <p align="center">
 <a href="https://steamcommunity.com/groups/renewed_networks"><img align="center" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam"/></a>
 <a href="https://t.me/rndevs"><img align="center" src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram"/></a>

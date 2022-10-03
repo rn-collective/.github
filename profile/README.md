@@ -1,4 +1,4 @@
-![rndevs.online](https://i.imgur.com/EzCALxr.png)
+<a href="https://rndevs.online">![rndevs.online](https://i.imgur.com/EzCALxr.png)</a>
 <p align="center">
 <a href="https://steamcommunity.com/groups/renewed_networks"><img align="center" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam"/></a>
 <a href="https://t.me/rndevs"><img align="center" src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram"/></a>

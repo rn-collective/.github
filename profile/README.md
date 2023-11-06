@@ -1,4 +1,4 @@
-<a href="https://rndevs.online">![RN Collective](https://i.imgur.com/EF75Q1b.png)</a>
+<a href="https://rndevs.online">![RN Collective](https://i.imgur.com/FdgTFli.png)</a>
 <p align="center">
 <a href="https://steamcommunity.com/groups/rndevs"><img align="center" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam"/></a>
 <a href="https://t.me/rndevs"><img align="center" src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram"/></a>
